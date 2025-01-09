@@ -1,0 +1,1 @@
+function getMax(nums: number[]) {}
